@@ -1,6 +1,6 @@
 {
   "name": "@el173/react-native-use-orientation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native hook for detecting device orientation (portrait/landscape)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

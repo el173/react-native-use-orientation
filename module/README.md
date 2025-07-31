@@ -1,4 +1,4 @@
-# react-native-use-orientation
+# @el173/react-native-use-orientation
 
 A lightweight React Native hook to detect device screen orientation (`PORTRAIT` or `LANDSCAPE`) in real time.
 
