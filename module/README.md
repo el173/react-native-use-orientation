@@ -16,9 +16,9 @@ A lightweight React Native hook to detect device screen orientation (`PORTRAIT` 
 ## 📦 Installation
 
 ```bash
-npm install react-native-use-orientation
+npm install @el173/react-native-use-orientation
 # or
-yarn add react-native-use-orientation
+yarn add @el173/react-native-use-orientation
 ````
 
 ---
@@ -28,7 +28,7 @@ yarn add react-native-use-orientation
 ```tsx
 import React from 'react';
 import { Text, View } from 'react-native';
-import { useOrientation } from 'react-native-use-orientation';
+import { useOrientation } from '@el173/react-native-use-orientation';
 
 const App = () => {
   const orientation = useOrientation();
