@@ -1,0 +1,40 @@
+{
+  "name": "react-native-use-orientation",
+  "version": "1.0.0",
+  "description": "A React Native hook for detecting device orientation (portrait/landscape)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react-native",
+    "hook",
+    "orientation",
+    "portrait",
+    "landscape",
+    "react-native",
+    "typescript"
+  ],
+  "author": "Hashith Karunarathne",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/el173/react-native-use-orientation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/el173/react-native-use-orientation/issues"
+  },
+  "homepage": "https://github.com/el173/react-native-use-orientation#readme"
+}
